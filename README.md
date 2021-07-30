@@ -1,4 +1,5 @@
-# RNA-Seq-pipeline-TG2 inspired by [1]
+# RNA-Seq-pipeline-TG2
+#### Pipeline adapted from [1]
 This is a pipeline for RNA-Seq  data we used in order analyze TG2-lncRNA expression
 
 # QUALITY CONTROL, PREPROCESSING, AND ALIGNEMNT
