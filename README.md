@@ -1,4 +1,4 @@
-# RNA-Seq-pipeline-TG2 inspired by [cit]
+# RNA-Seq-pipeline-TG2 inspired by [1]
 This is a pipeline for RNA-Seq  data we used in order analyze TG2-lncRNA expression
 
 # QUALITY CONTROL, PREPROCESSING, AND ALIGNEMNT
@@ -97,6 +97,7 @@ text(baseMean, log2FoldChange, topGene, pos=2, col="dodgerblue")
 > dev.off()
 
 
-
+# REFERENCE
+1. Yalamanchili HK, Wan YW, Liu Z. Data Analysis Pipeline for RNA-seq Experiments: From Differential Expression to Cryptic Splicing. Curr Protoc Bioinformatics. 2017;59:11.15.1-11.15.21. Published 2017 Sep 13. doi:10.1002/cpbi.33
 
 
